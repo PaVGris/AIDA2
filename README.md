@@ -1,5 +1,6 @@
 # Датасет
 7 лабораторная работа (маски):  https://www.kaggle.com/datasets/perke986/face-mask-segmentation-dataset
+
 8 лабораторная работа (дорожные знаки): https://www.kaggle.com/datasets/andrewmvd/road-sign-detection
 
 # Результаты работ
